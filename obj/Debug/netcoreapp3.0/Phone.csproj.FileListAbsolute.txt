@@ -1,0 +1,11 @@
+C:\Users\Owner\Desktop\coding\csharp\review\Phone\bin\Debug\netcoreapp3.0\Phone.exe
+C:\Users\Owner\Desktop\coding\csharp\review\Phone\bin\Debug\netcoreapp3.0\Phone.deps.json
+C:\Users\Owner\Desktop\coding\csharp\review\Phone\bin\Debug\netcoreapp3.0\Phone.runtimeconfig.json
+C:\Users\Owner\Desktop\coding\csharp\review\Phone\bin\Debug\netcoreapp3.0\Phone.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\coding\csharp\review\Phone\bin\Debug\netcoreapp3.0\Phone.dll
+C:\Users\Owner\Desktop\coding\csharp\review\Phone\bin\Debug\netcoreapp3.0\Phone.pdb
+C:\Users\Owner\Desktop\coding\csharp\review\Phone\obj\Debug\netcoreapp3.0\Phone.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\coding\csharp\review\Phone\obj\Debug\netcoreapp3.0\Phone.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\coding\csharp\review\Phone\obj\Debug\netcoreapp3.0\Phone.AssemblyInfo.cs
+C:\Users\Owner\Desktop\coding\csharp\review\Phone\obj\Debug\netcoreapp3.0\Phone.dll
+C:\Users\Owner\Desktop\coding\csharp\review\Phone\obj\Debug\netcoreapp3.0\Phone.pdb
